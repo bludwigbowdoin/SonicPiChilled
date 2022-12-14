@@ -8,12 +8,11 @@ eighth = 0.5
 sixteenth = 0.25
 triplet = 0.33333333333333333
 
-amp_low = 0.4
-amp_med = 0.5
-amp_high = 0.6
+amp_low = 0.4           ##| low volume level
+amp_med = 0.5           ##| medium volume level
+amp_high = 0.6          ##| high volume level
 
 slow_attack = 1
-
 
 ##| NOTE: The following six chord options sound nice in progression
 
@@ -48,14 +47,14 @@ main_chord_8va = chord(:c5, :minor7)
 ##| main_chord_8va = chord(:f5, :dom7)
 
 
-
+##| A 25 second long ocean wave sample 
 sample "/Users/bjornludwig/Desktop/CompCreat/SonicPiChilled/ocean-wave.wav", rate: -0.66
 
 
 live_loop :first do
-  
+  ##| stop
+
   use_synth :saw
-  
   my_note = main_chord_8va.choose
   amp_level = [amp_low, amp_med].choose
   
