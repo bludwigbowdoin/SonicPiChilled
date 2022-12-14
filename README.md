@@ -22,7 +22,11 @@ having the tension attack this state by any means. This tension simply builds
 on the whimsicality and fantasy of the piece, bringing the listener away from 
 their stresses and into some semblance of contentment. Once the progression 
 returns to to the root chord, a full-circle moment is initiated. This is 
-further emphasized as the 
+further emphasized as each rhythm component dies out, leaving the listener 
+with increasingly simple remnants of their journey. Returning to nothingness, 
+notably without even the sound of the ocean, underscores to the listener the 
+transitory nature of such feelings in life. We can take these journeys often, 
+and even for long times, but we cannot perpetually exist in them.  
 
 
 ### How live coding was used 
