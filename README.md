@@ -3,11 +3,27 @@
 
 ### Description of example song 
 
-The example song stored in this repo aims to capture the whimisical, 
+The example song stored in this repo aims to capture the whimisical 
+contentedness I felt at a sunset walk at Popham Beach this past fall. The piece 
+starts off with an ocean wave sample played in reverse at two-thirds speed. The
+effect is a sound that is surprisingly identifiable as waves but a discerning 
+ear may pick up on the slight nuance, building this dissociative experience 
+that can transport the listener from their present stresses and woes into a 
+more pleasant state of focus and peace. As the rhythms layer in, complexity is 
+introduced, and the nature of the difficulty with the live loop layering 
+presents even more complexity in imperfect alignment of the rhythms. So, around 
+the 1:38 mark, the brief pause serves as a realization point where the rhythms 
+are no less complex, but they finally work together. The syncopated nature of 
+the eighths and quarters against the triplets always fascinates me, and I hope 
+it provides some wonderment for the listener as well. The following journey 
+through a not uncommon chord progression makes the listener appreciate the 
+complexity of their renewed state of peace by introducing light tension without 
+having the tension attack this state by any means. This tension simply builds 
+on the whimsicality and fantasy of the piece, bringing the listener away from 
+their stresses and into some semblance of contentment. Once the progression 
+returns to to the root chord, a full-circle moment is initiated. This is 
+further emphasized as the 
 
-ocean wave is sampled, backwards and slower 
-
-not all perfectly synchronized, but still cool
 
 ### How live coding was used 
 
