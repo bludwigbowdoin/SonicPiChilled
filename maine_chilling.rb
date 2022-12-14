@@ -17,8 +17,8 @@ slow_attack = 1
 
 ##| NOTE: The following six chord options sound nice in progression
 
-##| main_chord = chord(:c4, :minor7)
-##| main_chord_8va = chord(:c5, :minor7)
+main_chord = chord(:c4, :minor7)
+main_chord_8va = chord(:c5, :minor7)
 
 ##| main_chord = chord(:f4, :m7)
 ##| main_chord_8va = chord(:f5, :m7)
@@ -32,8 +32,8 @@ slow_attack = 1
 ##| main_chord = chord(:g4, :major7)
 ##| main_chord_8va = chord(:g4, :major7)
 
-main_chord = chord(:c4, :minor7)
-main_chord_8va = chord(:c4, :minor7)
+##| main_chord = chord(:c4, :minor7)
+##| main_chord_8va = chord(:c4, :minor7)
 
 
 
