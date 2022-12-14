@@ -11,9 +11,12 @@ ear may pick up on the slight nuance, building this dissociative experience
 that can transport the listener from their present stresses and woes into a 
 more pleasant state of focus and peace. As the rhythms layer in, complexity is 
 introduced, and the nature of the difficulty with the live loop layering 
-presents even more complexity in imperfect alignment of the rhythms. So, around 
+presents even more complexity in imperfect alignment of the rhythms. As these 
+patterns may connote the clanging of wind chimes, this imperfection is quite 
+fitting. Yet, around 
 the 1:38 mark, the brief pause serves as a realization point where the rhythms 
-are no less complex, but they finally work together. The syncopated nature of 
+are no less complex, but they finally work together in a practically unnatural 
+way when the wind chime example is considered. The syncopated nature of 
 the eighths and quarters against the triplets always fascinates me, and I hope 
 it provides some wonderment for the listener as well. The following journey 
 through a not uncommon chord progression makes the listener appreciate the 
